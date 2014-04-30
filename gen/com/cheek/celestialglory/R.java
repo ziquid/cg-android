@@ -15,11 +15,9 @@ public final class R {
         public static final int cg_aides=0x7f020001;
         public static final int cg_forum=0x7f020002;
         public static final int cg_home=0x7f020003;
-        public static final int cg_lessons=0x7f020004;
-        public static final int cg_profile=0x7f020005;
-        public static final int cg_quests=0x7f020006;
-        public static final int cg_trials=0x7f020007;
-        public static final int icon=0x7f020008;
+        public static final int cg_quests=0x7f020004;
+        public static final int cg_trials=0x7f020005;
+        public static final int icon=0x7f020006;
     }
     public static final class id {
         public static final int browser=0x7f050000;

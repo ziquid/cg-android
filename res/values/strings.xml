@@ -4,25 +4,25 @@
   <string name="app_name">Celestial Glory</string>
 
   <string name="menu_home">Home</string>
-  <string name="url_home">http://codero1.cheek.com/celestial_glory/home/</string>
+  <string name="url_home">http://cg.game.ziquid.com/celestial_glory/home/</string>
   
   <string name="menu_lessons">Quests</string>
-  <string name="url_lessons">http://codero1.cheek.com/celestial_glory/quests/</string>
+  <string name="url_lessons">http://cg.game.ziquid.com/celestial_glory/quests/</string>
 
   <string name="menu_challenges">Trials</string>
-  <string name="url_challenges">http://codero1.cheek.com/celestial_glory/debates/</string>
+  <string name="url_challenges">http://cg.game.ziquid.com/celestial_glory/debates/</string>
 
   <string name="menu_aides">Aides</string>
-  <string name="url_aides">http://codero1.cheek.com/celestial_glory/land/</string>
+  <string name="url_aides">http://cg.game.ziquid.com/celestial_glory/land/</string>
     
   <string name="menu_actions">Actions</string>
-  <string name="url_actions">http://codero1.cheek.com/celestial_glory/actions/</string>
+  <string name="url_actions">http://cg.game.ziquid.com/celestial_glory/actions/</string>
     
   <string name="menu_forum">Forum</string>
-  <string name="url_forum">http://forum.cheek.com/forum/12</string>
+  <string name="url_forum">http://forum.ziquid.com/forum/12</string>
   
-  <string name="url_purchase">http://codero1.cheek.com/celestial_glory/elders_do_purchase/</string>
-  <string name="url_profile">http://codero1.cheek.com/celestial_glory/user/</string>
+  <string name="url_purchase">http://cg.game.ziquid.com/celestial_glory/elders_do_purchase/</string>
+  <string name="url_profile">http://cg.game.ziquid.com/celestial_glory/user/</string>
   
   <string name="billing_not_supported_title">Can\'t make purchases</string>
   <string name="billing_not_supported_message">The Market billing
@@ -34,6 +34,6 @@
    You can continue to use this app but you
    won\'t be able to make purchases.</string>
   
-  <string name="msg_ok">Ok</string>
+  <string name="msg_ok">OK</string>
       
 </resources>
