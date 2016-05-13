@@ -1,0 +1,37 @@
+apply plugin: 'com.android.application'
+android {
+    signingConfigs {
+        signing {
+            storeFile file('/Users/joseph/.android/android.jks')
+            storePassword 'Claire.2016'
+            keyAlias 'Android Keystore'
+            keyPassword 'Claire.2016'
+        }
+    }
+    compileSdkVersion 10
+    buildToolsVersion "23.0.2"
+    defaultConfig {
+        applicationId "com.ziquid.celestialglory"
+        minSdkVersion 10
+        targetSdkVersion 10
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt')
+            signingConfig signingConfigs.signing
+        }
+        debug {
+            debuggable true
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_6
+        targetCompatibility JavaVersion.VERSION_1_6
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+}

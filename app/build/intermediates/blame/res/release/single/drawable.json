@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/joseph/StudioProjects/cg-android/app/build/intermediates/res/merged/release/drawable/icon.png",
+        "source": "/Users/joseph/StudioProjects/cg-android/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/joseph/StudioProjects/cg-android/app/build/intermediates/res/merged/release/drawable/cg_forum.png",
+        "source": "/Users/joseph/StudioProjects/cg-android/app/src/main/res/drawable/cg_forum.png"
+    },
+    {
+        "merged": "/Users/joseph/StudioProjects/cg-android/app/build/intermediates/res/merged/release/drawable/cg_actions.png",
+        "source": "/Users/joseph/StudioProjects/cg-android/app/src/main/res/drawable/cg_actions.png"
+    },
+    {
+        "merged": "/Users/joseph/StudioProjects/cg-android/app/build/intermediates/res/merged/release/drawable/cg_aides.png",
+        "source": "/Users/joseph/StudioProjects/cg-android/app/src/main/res/drawable/cg_aides.png"
+    },
+    {
+        "merged": "/Users/joseph/StudioProjects/cg-android/app/build/intermediates/res/merged/release/drawable/cg_home.png",
+        "source": "/Users/joseph/StudioProjects/cg-android/app/src/main/res/drawable/cg_home.png"
+    },
+    {
+        "merged": "/Users/joseph/StudioProjects/cg-android/app/build/intermediates/res/merged/release/drawable/cg_quests.png",
+        "source": "/Users/joseph/StudioProjects/cg-android/app/src/main/res/drawable/cg_quests.png"
+    },
+    {
+        "merged": "/Users/joseph/StudioProjects/cg-android/app/build/intermediates/res/merged/release/drawable/cg_trials.png",
+        "source": "/Users/joseph/StudioProjects/cg-android/app/src/main/res/drawable/cg_trials.png"
+    }
+]

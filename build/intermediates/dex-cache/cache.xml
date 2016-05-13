@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/joseph/StudioProjects/cg-android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e2a609da70c432987e32865d5b4a625ca9f3d89b">
+        <dex dex="/Users/joseph/StudioProjects/cg-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5f5e5766fce730917eb36941467f15907516e54c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/joseph/StudioProjects/cg-android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0d76a76cd9c8ff8467dec577234453682c010cfa">
+        <dex dex="/Users/joseph/StudioProjects/cg-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6254c5f5eab134adb313a409a5cbc21a273d4c7a/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/joseph/StudioProjects/cg-android/app/src/main/assets"><file name="cg_splash.jpg" path="/Users/joseph/StudioProjects/cg-android/app/src/main/assets/cg_splash.jpg"/></source><source path="/Users/joseph/StudioProjects/cg-android/app/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/joseph/StudioProjects/cg-android/app/src/release/assets"/></dataSet></merger>
